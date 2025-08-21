@@ -16,6 +16,7 @@ Tools: Python, pandas, statsmodels.
 
 ### [⚙️ Airflow & dbt project](https://github.com/RStrzoda/ecommerce-project)
 Data engineering with dbt and apache airflow.
+
 Tools: Pythom, Apache Airflow, dbt, postgres, docker, astro cli.
 
 ---
